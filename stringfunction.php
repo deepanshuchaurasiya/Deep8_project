@@ -42,8 +42,5 @@
 // $val.=$str[$i];
 // }
 // echo $val;
-$str = explode(" ","hello world");
-echo $str[0]." " strlen;
-
-
+$str = explode(" ","hello world");  
  ?> 

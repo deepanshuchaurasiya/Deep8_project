@@ -8,4 +8,4 @@ foreach($name as $val){
 
 }
 foreach($age as $key=>$val."<br>";)
-?>
+?>  
