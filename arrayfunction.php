@@ -15,6 +15,4 @@
 // print_r($arr);
 
 // array_marge(array1,array2):-It merge two or more array and create a new array.It return new array.
-$a =[1,2,,4];
-$b =[4,5,7,7];
-$C = array_merge($a,$b);
+

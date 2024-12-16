@@ -11,4 +11,3 @@ echo pow(27,1/3);
 // echo floor(1.6);
 // echo ceil(1.2);
 // echo abs(20);
-

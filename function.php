@@ -5,7 +5,7 @@
     }
     return$();
  }
-  print_r (hello()2);
+  print_r (hello());
 ?>
  <!DOCTYPE html>
  <html lang="en">

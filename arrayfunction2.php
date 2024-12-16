@@ -18,6 +18,6 @@
 // $arr = array_combine($key,$value);
 // print_r($arr);
 $animal = ['dog','dog','cat','elephant',"Zebra","cow"];
-array_search("dog",$animal);
+array_search("dog ",$animal);
 echo $animal[4];
 ?>
